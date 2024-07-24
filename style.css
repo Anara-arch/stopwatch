@@ -1,0 +1,58 @@
+body{
+    background-color: aqua;
+}
+.second{
+    color: white;
+    margin-left: 150px;
+    font:bold 16pt Tahoma; 
+}
+.Pause{
+    border: none;
+    width: 140px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-left: 20px;
+    background-color:  orange;
+} 
+#sec{
+    width: 140px;
+    height: 45px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border: none;
+}
+.restart{
+    border: none;
+    width: 140px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: steelblue;
+    margin-top: 80px;
+    margin-left: 70px;
+}
+.backTimer{
+    border: none;
+    width: 140px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: steelblue;
+    margin-left: 20px;
+}
+.set{
+    border: none;
+    width: 140px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 20px;
+    background-color: steelblue;
+    margin-left: 20px;
+}
+div { 
+    color: white;
+    font:bold 16pt Tahoma; 
+    margin-left:340px; 
+    margin-top: -110px;
+}
